@@ -135,3 +135,8 @@ service httpd start
   service httpd stop
   ```
 ---
+- Now you can access my web application by using public IPv4 address of EC2 instance provided by AWS
+  ```
+  65.1.111.68
+  ```
+---
