@@ -41,7 +41,7 @@ Run the following commands:
 
 ### Notes
 
- To restart the Apache server after changes use : service httpd restart
+ To restart the Apache server use : service httpd restart
  
  To stop the server use : service httpd stop
 
